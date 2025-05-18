@@ -16,23 +16,6 @@ Every time you push to the `main` branch, a GitHub Actions workflow is triggered
 
 
 
-## 🗂 Structure
-
-gh-pages-demo/ 
-        ├── .github/ 
-                │ └── workflows/ 
-                        │ └── deploy.yml 
-        ├── src/ 
-            ├── index.html  
-            │ └── style.css 
-           
-        └── README.md
-
-
-
-
-
-
 ## 📦 Workflow Features
 
 - Triggers on push to `main`
